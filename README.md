@@ -37,6 +37,3 @@ When you run the `grunt` command the Vulcanize tool will start up and watch for 
 * [Chrome App](http://developer.chrome.com/apps)
 * [Polymer Project](http://www.polymer-project.org/)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/vikasprogrammer/polymerchromeapp/master/assets/screenshot_1280_800.png)
-
